@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub!
 
-Hi there! I’m a **software developer with a strong background in Computer Science (A.S.)** and a passion for **building and deploying impactful software**.  
+Hi there! I’m a software developer with an A.S. in Computer Science and currently pursuing a B.S. in Statistics & Data Science at UCSB, with a passion for **building and deploying impactful software**. 
 
 I started my programming journey in **C++**, inspired by a love for **graphics programming**. Along the way, I built **games**, **physics engines**, **chess**, and more, which taught me the power of bringing ideas to life through code.  
 This passion evolved into an interest in **productizing and deploying software**, leading me to explore **full-stack web development**.  
