@@ -15,6 +15,6 @@ This passion evolved into an interest in **productizing and deploying software**
 I’m currently seeking opportunities in the **job market sector** where I can apply my skills in **software engineering, web development, and data-driven solutions**. Let’s build something great together!  
 
 ### 📬 Let’s Connect:
-- **LinkedIn**: [Eric Livshiz](www.linkedin.com/in/eric-livshiz-b46956247)  
-- **Email**: ericlivshiz1@gmail.com
+- **LinkedIn**: [Eric Livshiz](https://www.linkedin.com/in/eric-livshiz-b46956247)  
+- **Email**: [ericlivshiz1@gmail.com](mailto:ericlivshiz1@gmail.com)  
 - **Portfolio**: [My Portfolio](https://eric-website-two.vercel.app/)  
