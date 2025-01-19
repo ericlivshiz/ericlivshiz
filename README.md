@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub!
 
-<!--
-**ericlivshiz/ericlivshiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I’m a **software developer with a strong background in Computer Science (A.S.)** and a passion for **building and deploying impactful software**.  
 
-Here are some ideas to get you started:
+I started my programming journey in **C++**, inspired by a love for **graphics programming**. Along the way, I built **games**, **physics engines**, **chess**, and more, which taught me the power of bringing ideas to life through code.  
+This passion evolved into an interest in **productizing and deploying software**, leading me to explore **full-stack web development**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I’m Working On:
+- **[Find Your Homie](https://find-your-homie.vercel.app/)**: A platform to help people connect and find shared housing.  
+- **[Automata Trading](https://automata-trading.vercel.app/)**: A no-code platform for creating, backtesting, and sharing automated trading bots.  
+
+💡 **I’m actively looking for contributors to both projects!** If you’re interested, please message me.  
+
+### 🌟 Open to Opportunities:
+I’m currently seeking opportunities in the **job market sector** where I can apply my skills in **software engineering, web development, and data-driven solutions**. Let’s build something great together!  
+
+### 📬 Let’s Connect:
+- **LinkedIn**: [Eric Livshiz](www.linkedin.com/in/eric-livshiz-b46956247)  
+- **Email**: [ericlivshiz1@gmail.com]
+- **Portfolio**: [My Portfolio](https://eric-website-two.vercel.app/)  
