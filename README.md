@@ -16,5 +16,5 @@ I’m currently seeking opportunities in the **job market sector** where I can a
 
 ### 📬 Let’s Connect:
 - **LinkedIn**: [Eric Livshiz](www.linkedin.com/in/eric-livshiz-b46956247)  
-- **Email**: [ericlivshiz1@gmail.com]
+- **Email**: ericlivshiz1@gmail.com
 - **Portfolio**: [My Portfolio](https://eric-website-two.vercel.app/)  
